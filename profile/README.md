@@ -23,7 +23,7 @@ Nuestros principales objetivos incluyen:
 
 ## Contacto
 
-Puedes encontrarnos en GitHub como [Cyb3rGh0st](https://github.com/Cyb3rGh0st). ¡No dudes en seguirnos y explorar nuestros proyectos! Si deseas ponerte en contacto con nosotros para cualquier consulta o colaboración, puedes enviarnos un correo electrónico a Cyb3rGh0st_team@protonmail.com.
+Si deseas ponerte en contacto con nosotros para cualquier consulta o colaboración, puedes enviarnos un correo electrónico a Cyb3rGh0st_team@protonmail.com.
 
 ¡Gracias por visitar Cyb3rGh0st!
 
